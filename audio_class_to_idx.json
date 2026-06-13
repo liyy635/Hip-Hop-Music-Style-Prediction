@@ -1,0 +1,19 @@
+{
+  "Afro": 0,
+  "Boombap": 1,
+  "Cloud": 2,
+  "Detroit": 3,
+  "Drill": 4,
+  "Emo": 5,
+  "Garage": 6,
+  "Gospel": 7,
+  "Jazz": 8,
+  "Jerk": 9,
+  "Jersey-Club": 10,
+  "Lo-fi": 11,
+  "Memphis": 12,
+  "Mumble": 13,
+  "New-Wave": 14,
+  "Rage": 15,
+  "Trap": 16
+}

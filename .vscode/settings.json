@@ -1,0 +1,10 @@
+{
+    // 指定默认 Python 解释器为虚拟环境，便于 VS Code 和 Pylance 使用相同解释器
+    "python.defaultInterpreterPath": "D:/Python/envs/music/python.exe",
+    // 如果 Pylance 仍然无法解析某些包，可以把 site-packages 路径加入 extraPaths
+    "python.analysis.extraPaths": [
+        "D:/Python/envs/music/Lib/site-packages"
+    ],
+    // 可选：使用 Pylance 作为分析引擎（通常已默认启用）
+    "python.languageServer": "Pylance"
+}
